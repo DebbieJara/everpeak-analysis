@@ -12,7 +12,7 @@ categories, payment methods, and regions.
 
 ## ▶️ Open in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DebbieJara/retail-data-analysis/blob/main/retail_data_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DebbieJara/everpeak-analysis/blob/main/retail_data_analysis.ipynb)
 
 ## 📋 What This Project Covers
 
